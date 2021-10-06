@@ -1,8 +1,9 @@
-### Seja bem vindo!! 
-Se quiser entrar em contato, pode usar alguma das seguintes redes:
+ 
+Se quiser entrar em contato comigo, pode usar alguma das seguintes redes:
 
 
-
+<h1 align="center">Hi 👋, I'm Alisson</h1>
+- 🌱 I’m currently learning **Advanced R and starting to learn python**
 
 
 
