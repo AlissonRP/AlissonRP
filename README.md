@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Alisson</h1>
 
-- 🌱 I’m currently learning **Advanced R and starting to learn Python, HTML and CSS**
+- 🌱 I’m currently learning **Advanced R** and starting to learn **Python**, **HTML** and **CSS**
 
 
 
