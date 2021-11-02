@@ -4,7 +4,7 @@
 
 <h2 align="center"> Welcome! </h2>
 <h3>
-  <p align="center"><img align="center" src="https://github.com/AlissonRP/DATA_SETS/blob/master/PngItem_1249442.png" height="100px" /></p>
+  <p align="center"><img align="center" src="https://github.com/AlissonRP/DATA_SETS/blob/master/PngItem_1249442.png" height="110px" /></p>
 </h3>
 
 -  I’m currently learning **Advanced R** and starting to learn **Python**, **HTML** and **CSS**
