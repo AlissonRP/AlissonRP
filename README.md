@@ -2,7 +2,10 @@
 
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm Alisson</h1>
+<h2 align="center"> Welcome! </h2>
+<h3>
+  <p align="center"><img align="center" src="https://github.com/AlissonRP/DATA_SETS/blob/master/PngItem_1249442.png" height="100px" /></p>
+</h3>
 
 -  I’m currently learning **Advanced R** and starting to learn **Python**, **HTML** and **CSS**
 
