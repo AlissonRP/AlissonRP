@@ -7,7 +7,7 @@
   <p align="center"><img align="center" src="https://github.com/AlissonRP/DATA_SETS/blob/master/PngItem_1249442.png" height="110px" /></p>
 </h3>
 
-### About Me :thinking:
+### About me :thinking:
 * My name is Alisson Rosa  
 * I'm undergraduate student in Statistics and  study some topics of computer science on my own.
 
