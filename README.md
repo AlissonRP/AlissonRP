@@ -9,7 +9,7 @@
 
 ### About me :thinking:
 * My name is Alisson Rosa  
-* I'm undergraduate student in Statistics and  study some topics of computer science on my own.
+* I'm undergraduate student in statistics and  study some topics of computer science on my own.
 
 
 
