@@ -29,4 +29,4 @@
 ### Contact 💬
 <div> 
  <a href = "https://twitter.com/fuzzys3t"><img src="https://img.shields.io/badge/Twitter-informational?style=flat&logo=Twitter&logoColor=white&color=25253C" target="_blank"></a>
-  <a href="https://www.kaggle.com/alisson987" target="_blank"><img src="https://img.shields.io/badge/Kaggle-informational?style=flat&logo=Kaggle&logoColor=white&color=25253C" target="_blank"></a>
+  </a>
