@@ -23,7 +23,8 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=161C3D)
 ![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=Markdown&logoColor=white&color=161C3D)
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visual%20studio&logoColor=white&color=161C3D)
-![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=white&color=161C3D)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux%20Mint&logoColor=white&color=161C3D)
+
 
 
 ### Contact 💬
