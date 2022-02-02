@@ -16,18 +16,27 @@
 
 
 
- 	
-### Tools I enjoy 🙃
+### Tools I enjoy 🙃 
+
+<div style="text-align:center">
 
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=161C3D)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=161C3D)
 ![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=Markdown&logoColor=white&color=161C3D)
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visual%20studio&logoColor=white&color=161C3D)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux%20Mint&logoColor=white&color=161C3D)
+</div>
+
+
+### Tools I'm learning :hugs:
+
+
+![](https://img.shields.io/badge/-C-informational?style=flat&logo=C&logoColor=white&color=000000)
+![](https://img.shields.io/badge/-Scala-informational?style=flat&logo=scala&logoColor=white&color=000000)
+![](https://img.shields.io/badge/-Spark-informational?style=flat&logo=apachespark&logoColor=white&color=000000)
+![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=Docker&logoColor=white&color=000000)
 
 
 
-### Contact 💬
-<div> 
- <a href = "https://twitter.com/fuzzys3t"><img src="https://img.shields.io/badge/Twitter-informational?style=flat&logo=Twitter&logoColor=white&color=25253C" target="_blank"></a>
-  </a>
+
+
