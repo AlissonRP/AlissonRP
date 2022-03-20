@@ -8,7 +8,8 @@
 ### About me :thinking:
 * My name is Alisson Rosa  
 * I'm undergraduate student in statistics and  study some topics of computer science on my own.
-* Currently learning **C**, **Spark**, and Category theory.
+* At this moment my fav libraries/frameworks are: *scikit-learn*, *PyTorch*, *NumPy*, *ggplot2* and *dplyr*.
+* Currently learning: *Julia*, *Spark*, and *Category theory*.
 
 
 
