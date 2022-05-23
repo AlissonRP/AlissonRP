@@ -15,10 +15,14 @@
 <kbd>![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) </kbd>
 <kbd> ![julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) </kbd>
 <kbd>![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) </kbd>
+
 <kbd>![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) </kbd>
- 
 <kbd>![latex](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) </kbd>
+
 <kbd>![fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) </kbd>
 <kbd>![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) </kbd>
 <kbd> ![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) </kbd>
+
+
+
 
