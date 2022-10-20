@@ -14,8 +14,9 @@
 
 ### My Fav Tools
 <kbd>![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) </kbd>
-<kbd> ![julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) </kbd>
 <kbd>![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) </kbd>
+
+<kbd> ![julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) </kbd>
 <kbd>![python](https://img.shields.io/badge/C++-0E59A1?style=for-the-badge&logo=c%2B%2B&logoColor=white) </kbd>
 
 <kbd>![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) </kbd>
